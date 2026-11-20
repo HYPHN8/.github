@@ -1,8 +1,8 @@
 # HYPHN8
 
-**Applied AI systems & workflow engineering studio building open-source Apple Silicon infrastructure.**
+**Applied AI, one person at a time.**
 
-We build practical local-first AI workflows and native Apple Silicon primitives designed to run cleanly on unified memory without heavy container or sidecar stacks.
+We coach people and teams to work with AI on their own terms. The tools we build for that work are open source, and they run on your own machine.
 
 ---
 
